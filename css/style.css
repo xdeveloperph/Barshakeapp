@@ -1,0 +1,192 @@
+html{
+    height: 100%;
+
+}
+body, .body{
+    min-height: 100% !important;
+}
+
+.notify-container{
+    text-align: center;
+    padding: 10px;
+    border-radius: 3px;
+}
+.success-container{
+    text-align: center;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    color: green;
+    border: solid green 1px;
+}
+.error-container{
+    text-align: center;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    color: red;
+    border: solid red 1px;
+}
+.main-body{
+    background-image: url('../images/back4.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 50px;
+    padding-top: 100px;
+    height: 100%;
+}
+.main-body-sub{
+    background-image: url('../images/back5.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 100px;
+    height: 100%;
+    width: 100%;
+    background-attachment:fixed;
+}
+.main-body img{
+
+}
+.mb_header{
+    display: inline-block;
+    padding: 0px 20px 10px 20px;
+    border: solid 3px;
+    border-radius: 8px;
+    margin-bottom: 40px;
+    width: 100%;
+    color: white;
+}
+.widget-container{
+    background-color: #313131;
+    height: 100px;
+}
+.footer-container{
+    background-color: black;
+    height: 50px;
+}
+.row-step2{
+    color: black;
+    background-color: white;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 30px;
+}
+.row-head{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.head-container{
+    background-color: rgba(0, 0, 0, 0.2) !important;
+}
+.nav-icon a{
+    color: white !important;
+}
+.ipad-border{
+    background-image: url("../images/frame1.png");
+    background-size: 100%;
+    width: 400px;
+    height: 600px;
+    background-repeat: no-repeat;
+    padding-top: 119px;
+    padding-left: 27px;
+}
+.ipad-content{
+    padding-top: 20px;
+    width: 245px;
+    height: 399px;
+    padding: 17px;
+    background: #E6E6E6;
+    border-radius: 3px;
+}
+.ipad-btn{
+    height: 50px;
+    width: 50px;
+    border: solid 2px #B0BA95;
+    border-radius: 100%;
+    margin: auto;
+}
+.signup{
+    padding-bottom: 20px;
+    color: #EC971F;
+}
+.signup-body{
+    height: 100%;
+    background-color: #F3F5F6;
+}
+.signup-content{
+    padding-top: 100px;
+
+    padding-bottom: 100px;
+}
+
+.signup-content > .container {
+    border: 1px #c2c8cd solid;
+    padding-top: 15px;
+    padding-bottom: 50px;
+    position: relative;
+}
+
+.signup-content > .container > .row{
+    padding-top: 50px;
+}
+.signup-header{
+    border: 1px #c2c8cd solid;
+    margin-left: -25px;
+    margin-right: -25px;
+    border-radius: 5px;
+    padding: 10px 28px;
+    color: #3d4145;
+    background: #e0e4e7;
+    position: relative;
+}
+.sub-item-1{
+     margin: auto;
+     padding-top: 30px;
+     padding-bottom: 30px;
+     margin-top: 25px;
+     margin-bottom: 25px;
+ }
+.sub-item-2{
+    width: 250px;
+    margin: auto;
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.row-footer{
+    min-height: 200px;
+    background-color: rgba(0,0,0,.8);
+    margin: 0px;
+
+}
+.row-footer > .text-center{
+    margin-top: 50px;
+}
+.row-footer > .text-center > img{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.row-footer > .text-center > p{
+    color:  white;
+    padding-top: 20px;
+}
+.links{
+    color:  white;
+    padding-top: 20px;
+}
+.linka-left{
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: solid 1px white;
+}
+.linka{
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
